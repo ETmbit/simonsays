@@ -3,9 +3,6 @@ let standbyHandler : handler
 let getreadyHandler : handler
 let selectnowHandler : handler
 
-//% color="#C4C80E" icon="\uf11b"
-//% block="SimonSays"
-//% block.loc.nl="SimonSays"
 namespace SimonSays {
 
     let tminit = 2500
